@@ -13515,12 +13515,12 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: #f7722a;
-  background: linear-gradient(135deg, #f7722a 0%, #192e13 100%);
+  background: #1e30f3;
+  background: linear-gradient(135deg, #1e30f3 0%, #e21e80 100%);
 }
 
 .text-gradient {
-  background: -webkit-linear-gradient(315deg, #f7722a 0%, #192e13 100%);
+  background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
